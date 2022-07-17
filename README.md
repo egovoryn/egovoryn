@@ -5,19 +5,6 @@ I have experience as a game designer, worked at Playrix on the Homescapes projec
 
 <img align="center" style="margin-right:5px" src="https://i.pinimg.com/736x/b3/df/85/b3df85d7b8c93b62159869bb14d298e9--nick-offerman-parks-department.jpg" width="400px" />
 
-<br />
-
-## Skills and Tools
-
----
-| `Hard` | Soft |
-| :----------- | :----------- |
-| `C/C++` | Slack |
-| `Bash scripts` | Asana |
-| `Docker` | Miro |
-| `Mac/Linux` | Confluence |
-| `Unreal Engine 4.0` | Git |
-
 ## GitHub Stats
 
 <a href="https://github.com/egovoryn">
