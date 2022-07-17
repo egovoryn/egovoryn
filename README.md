@@ -18,8 +18,6 @@ I have experience as a game designer, worked at Playrix on the Homescapes projec
 | `Mac/Linux` | Confluence |
 | `Unreal Engine 4.0` | Git |
 
-<br />
-
 ## GitHub Stats
 
 <a href="https://github.com/egovoryn">
@@ -28,8 +26,6 @@ I have experience as a game designer, worked at Playrix on the Homescapes projec
 <a href="https://github.com/egovoryn">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=egovoryn&theme=moltack&show_icons=true&border_color=86092C" alt="Martin's GitHub Stats" />
 </a>
-
-<br />
 
 ## Contact
 
