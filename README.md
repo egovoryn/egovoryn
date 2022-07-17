@@ -1,12 +1,9 @@
 ## Hello, It's me
 ## I'm Egor Oleynik
-<br />
 
 I have experience as a game designer, worked at Playrix on the Homescapes project and work at PixelHead (Freeplay Inc studio) on hyper-casual games. I also study at the analogue of "School 42", program in C and C++.
 
-<br />
-
-<img align="center" style="margin-right:5px" src="https://i.pinimg.com/736x/b3/df/85/b3df85d7b8c93b62159869bb14d298e9--nick-offerman-parks-department.jpg" width="550px" />
+<img align="center" style="margin-right:5px" src="https://i.pinimg.com/736x/b3/df/85/b3df85d7b8c93b62159869bb14d298e9--nick-offerman-parks-department.jpg" width="400px" />
 
 <br />
 
@@ -14,11 +11,10 @@ I have experience as a game designer, worked at Playrix on the Homescapes projec
 
 ---
 | `Hard` | Soft |
-| ----------- | ----------- |
+| :----------- | :----------- |
 | `C/C++` | Slack |
 | `Bash scripts` | Asana |
 | `Docker` | Miro |
-| `Unit-testing` | Gira |
 | `Mac/Linux` | Confluence |
 | `Unreal Engine 4.0` | Git |
 
