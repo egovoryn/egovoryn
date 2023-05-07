@@ -1,7 +1,8 @@
 ## Hello, It's me
 ## I'm Egor Oleynik
 
-I have experience as a game designer, worked at Playrix on the Homescapes project and work at PixelHead (Freeplay Inc studio) on hyper-casual games. I also study at the analogue of "School 42", program in C and C++.
+- more than two years of experience as a game designer (Playrix, PixelHead, GameOn Production)
+- two years of programming C/C++ and Java training (School 21 from Sber/2gis and by yourself)
 
 <img align="center" style="margin-right:5px" src="https://i.pinimg.com/736x/b3/df/85/b3df85d7b8c93b62159869bb14d298e9--nick-offerman-parks-department.jpg" width="400px" />
 
